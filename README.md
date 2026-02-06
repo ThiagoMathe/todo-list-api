@@ -11,10 +11,9 @@ O objetivo é fornecer um backend sólido para operações de CRUD (Create, Read
 * **Express**: Framework web para gerenciar rotas e requisições.
 * **Git**: Controle de versão.
 
-## 📂 Estrutura do Projeto (Planejada)
+## 📂 Estrutura do Projeto 
 
 O projeto segue uma arquitetura modular para facilitar a manutenção:
-## 📂 Estrutura do Projeto
 ```text
 src/
 ├── controllers/  # Lógica de controle de entrada/saída (Requests/Responses)
