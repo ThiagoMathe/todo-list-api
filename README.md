@@ -23,6 +23,7 @@ src/
 ├── services/     # Regras de negócio e lógica complexa
 ├── database/     # Configuração e conexão com banco de dados
 └── server.ts     # Ponto de entrada da aplicação
+```
 
 ## 📦 Pré-requisitos
 
