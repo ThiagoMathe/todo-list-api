@@ -12,7 +12,7 @@ O Task Master é uma aplicação full stack desenvolvida com foco em boas práti
 ## 📸 Preview da Aplicação
 
 <p align="center">
-  <img src="./docs/screenshot.png" alt="Task Master Screenshot" width="800"/>
+  <img src="./docs/Screenshot.png" alt="todo list Screenshot" width="800"/>
 </p>
 
 ## 🛠️ Tecnologias Utilizadas
